@@ -10,7 +10,7 @@ Related Class:
   * [Economics 151B](###economics151b) - Economics of Human Resources
   * Economics 103 - Economics of Uncertainty and Information
 - Statistics: 
-  * [Sampling Theory of Surveys](###sampling theory of surverys)
+  * [Sampling Theory of Surveys](###samplingtheoryofsurverys)
   
 
 I would love to be able to start my career in state department. I’m a responsible, ambitious and hardworking person. 
