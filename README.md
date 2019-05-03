@@ -5,9 +5,9 @@
 
 Related Class: 
 - Economic: 
-  * [Economics 134](######economics134) - Financial Economics
+  * [Economics 134](###economics134) - Financial Economics
   * Economics 122 - Game Theory
-  * [Economics 151B](######economics151b) - Economics of Human Resources
+  * [Economics 151B](###economics151b) - Economics of Human Resources
   * Economics 103 - Economics of Uncertainty and Information
 - Statistics: 
   * Sampling Theory of Surveys
@@ -15,11 +15,11 @@ Related Class:
 
 I would love to be able to start my career in state department. I’m a responsible, ambitious and hardworking person. 
 
-###### Economics 134
+### Economics 134
 
 
 
 
 
 
-###### Economics 151B  
+### Economics 151B  
