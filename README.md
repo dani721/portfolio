@@ -10,7 +10,7 @@ Related Class:
   * [Sampling Theory of Surveys](https://github.com/dani721/STA-144)
   * Applied Time Series Analysis
   * Analysis of Categorical Data
-  * Fundamentals of Statistical Data Science
+  *[Fundamentals of Statistical Data Science](https://github.com/dani721/STA141A):open_file_folder: 
   
 - Economic: 
   * Economics 134 - Financial Economics
