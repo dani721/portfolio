@@ -7,13 +7,13 @@ Here is my [RESUME](https://github.com/dani721/portfolio/blob/master/Copy%20of%2
 
 Related Class: 
 - Statistics: 
-  * [Sampling Theory of Surveys](https://github.com/dani721/STA-144)
+  * :chart_with_upwards_trend:[Sampling Theory of Surveys](https://github.com/dani721/STA-144)
   * Applied Time Series Analysis
-  * Analysis of Categorical Data
-  *[Fundamentals of Statistical Data Science](https://github.com/dani721/STA141A):open_file_folder: 
+  * Analysis of Categorical Data  
+  * :bar_chart:[Fundamentals of Statistical Data Science](https://github.com/dani721/STA141A) 
   
 - Economic: 
-  * Economics 134 - Financial Economics
+  * :memo:Economics 134 - Financial Economics
   * Economics 122 - Game Theory
   * Economics 151B - Economics of Human Resources
   * Economics 103 - Economics of Uncertainty and Information
