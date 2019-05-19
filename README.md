@@ -19,6 +19,20 @@ Related Class:
   * Economics 103 - Economics of Uncertainty and Information
 
   
+scatterplot sample
+```
+rm(list=ls())
+library(readxl)
+question3 <- read_excel("ucd 19spring/STA144/144 hw/hw3/question3.xlsx")
+names(question3)<- c('tree','x','y')
 
-
-
+### draw a scatterplot
+library(ggplot2)
+ 
+# The iris dataset is proposed by R
+head(question3)
+ 
+# basic scatterplot
+ggplot(question3, aes(x=x, y=y)) + 
+    geom_point()
+```
