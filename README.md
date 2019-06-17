@@ -1,4 +1,4 @@
-# This is Danli Zheng's portfolio
+# Hello, this is Danli Zheng
 ###### Davis, CA, 95616 |(510)-918-1202 | Danzheng@ ucdavis.edu
 ##### Bachelor of Science in Statistics with a minor in Economics Expected Graduation: June 2019
 
