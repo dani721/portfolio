@@ -1,10 +1,11 @@
 # Hello, this is Danli Zheng
-###### Davis, CA, 95616 |(510)-918-1202 | Danzheng@ ucdavis.edu
-##### Bachelor of Science in Statistics with a minor in Economics Expected Graduation: June 2019
-
+##### I am a highly motivated statistics major student that has recently graduated from UC Davis seeking a full-time position.
 Here is my [RESUME](https://github.com/dani721/portfolio/blob/master/Copy%20of%20Danli%20Zheng%20resume.pdf)
+###### Davis, CA, 95616 |(510)-918-1202 | Danzheng@ ucdavis.edu
 
-
+### Education
+##### ASSOCIATE DEGREE | JUNE 2017 | DE ANZA COLLEGE
+##### BACHELOR OF SCIENCE in Statistics with a Minor in Economics| JUNE 2019 | UC DAVIS
 Related Class: 
 - Statistics: 
   * [Sampling Theory of Surveys](https://github.com/dani721/STA-144)
