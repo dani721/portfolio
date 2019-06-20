@@ -4,8 +4,8 @@ Here is my [RESUME](https://github.com/dani721/portfolio/blob/master/Copy%20of%2
 ###### Davis, CA, 95616 |(510)-918-1202 | Danzheng@ ucdavis.edu
 
 # Education
-##### ASSOCIATE DEGREE | JUNE 2017 | DE ANZA COLLEGE
-##### BACHELOR OF SCIENCE in Statistics with a Minor in Economics| JUNE 2019 | UC DAVIS
+### ASSOCIATE DEGREE | JUNE 2017 | DE ANZA COLLEGE
+### BACHELOR OF SCIENCE in Statistics with a Minor in Economics| JUNE 2019 | UC DAVIS
 Related Class: 
 - Statistics: 
   * [Sampling Theory of Surveys](https://github.com/dani721/STA-144)
