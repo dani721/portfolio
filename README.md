@@ -3,7 +3,7 @@
 Here is my [RESUME](https://github.com/dani721/portfolio/blob/master/Copy%20of%20Danli%20Zheng%20resume.pdf)
 ###### Davis, CA, 95616 |(510)-918-1202 | Danzheng@ ucdavis.edu
 
-### Education
+# Education
 ##### ASSOCIATE DEGREE | JUNE 2017 | DE ANZA COLLEGE
 ##### BACHELOR OF SCIENCE in Statistics with a Minor in Economics| JUNE 2019 | UC DAVIS
 Related Class: 
