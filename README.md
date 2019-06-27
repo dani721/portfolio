@@ -12,7 +12,7 @@ Related Class:
 - Statistics: 
   * Sampling Theory of Surveys 
     - This class is about surveys and samples. I learned about simple random, stratified, and cluster sampling, and ratio and regression estimation.
-    - (sample: term project)
+    - [(sample: term project)](https://github.com/dani721/portfolio/blob/master/144%20project.pdf)
   * Applied Time Series Analysis
   * Analysis of Categorical Data  
   * [Fundamentals of Statistical Data Science](https://github.com/dani721/STA141A) 
