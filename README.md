@@ -10,8 +10,9 @@ Here is my [RESUME](https://github.com/dani721/portfolio/blob/master/Danli_Zheng
 I am familiar with R program  
 Related Class: 
 - Statistics: 
-  * [Sampling Theory of Surveys](https://github.com/dani721/STA-144)  
+  * Sampling Theory of Surveys 
     - This class is about surveys and samples. I learned about simple random, stratified, and cluster sampling, and ratio and regression estimation.
+    - (sample: term project)
   * Applied Time Series Analysis
   * Analysis of Categorical Data  
   * [Fundamentals of Statistical Data Science](https://github.com/dani721/STA141A) 
