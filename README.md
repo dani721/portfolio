@@ -15,7 +15,7 @@ Related Class:
     - [(sample: term project)](https://github.com/dani721/portfolio/blob/master/144%20project.pdf)
   * Applied Time Series Analysis
   * Analysis of Categorical Data  
-  * [Fundamentals of Statistical Data Science](https://github.com/dani721/STA141A) 
+  * Fundamentals of Statistical Data Science
   
 - Economic: 
   * Economics 134 - Financial Economics
@@ -24,4 +24,4 @@ Related Class:
   * Economics 103 - Economics of Uncertainty and Information
 
   
-:chart_with_upwards_trend:scatterplot sample
+
