@@ -16,12 +16,13 @@ Related Class:
   * Applied Time Series Analysis
   * Analysis of Categorical Data  
   * Fundamentals of Statistical Data Science
-  
+I am also familiar with economics theories.  
 - Economic: 
   * Economics 134 - Financial Economics
   * Economics 122 - Game Theory
   * Economics 151B - Economics of Human Resources
   * Economics 103 - Economics of Uncertainty and Information
 
+I am profession in Excel
   
 
