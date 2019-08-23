@@ -25,5 +25,5 @@ I am also familiar with economics theories.
 
 I am profession in Excel
   
-I am also familiar with python
-Here are some [(samples and notes)](https://github.com/dani721/pythonnote)for my python experiences.
+I am also familiar with python  
+Here are some [samples and notes](https://github.com/dani721/pythonnote)for my python experiences.
