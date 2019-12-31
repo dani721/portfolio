@@ -1,7 +1,7 @@
 # Hello, My name is Danli Zheng
 **I am a highly motivated statistics major student that has recently graduated from UC Davis.  
 I am seeking a full-time position.**  
-Here is my [RESUME](https://github.com/dani721/portfolio/blob/master/Danli Zheng resume 12_28.pdf)
+Here is my [RESUME](https://github.com/dani721/portfolio/blob/master/DanliZhengresume12_28.pdf)
 ###### Davis, CA, 95616 |(510)-918-1202 | Danzheng@ ucdavis.edu
 
 # Education
